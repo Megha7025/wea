@@ -1,0 +1,47 @@
+.date{
+    font-size: 50px;
+}
+h2{
+    text-align: center;
+}
+body{
+    background-image: url("./image/w6.jpeg");
+    background-position: center;
+    background-size: cover;
+}
+*{
+    color: white;
+}
+#temp{
+    font-size: 80px;
+}
+.place{
+    font-size: 80px;
+    text-align: center;
+}
+.description{
+    font-size: 30px;
+    margin-left: 50px;
+}
+.card2{
+    padding: 30px;
+    background-color: rgba(0, 0, 0, 0.788);
+}
+.feelslike{
+    font-size: 50px;
+}
+.humidity{
+    font-size: 50px;
+}
+.pressure{
+    font-size: 50px;
+}
+.wind{
+    font-size: 50px;
+}
+.visibility{
+    font-size: 50px;
+}
+.country{
+    font-size: 50px;
+}
